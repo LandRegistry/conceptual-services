@@ -10,7 +10,7 @@ You can view different sets of screenshots for each exemplar, zoom in and out of
 
 The app is very simple and doesn't require anything to be installed or run in a terminal. Just open the index.html file in the root folder. It works especially well in Chrome's presentation mode. Your mileage may vary in other browsers.
 
-## examples we want to conceptualise and add here include:
+## examples to conceptualise and add here include:
 
 - CCA
 - commonhold
@@ -20,6 +20,8 @@ The app is very simple and doesn't require anything to be installed or run in a 
 - permission to do something, that needs information about property - an owner or someone with a right getting permission, or giving another person access
 - geospatial ideas - what could a geostpatial register do / allow?
 - digital casework - if public services changed how would casework change to also suppoert that / work in the future
+
+this is a lightweight app, to show the main idea or ideas, if you have another prototype with more information, link to that.
 
 
 ## How to contribute
@@ -38,4 +40,6 @@ Edit the data.js file in your numbered exemplar folder. It contains a few exampl
 ### 3. Update the index file
 
 Once you're done, don't forget to add a link to your exemplar from the 'index.html' file in the root of this repository (not the one in your numbered exemplar folder).
+
+
 
