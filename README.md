@@ -1,7 +1,7 @@
 Conceptual Services - screenshots and brief notes
 ================
 
-Browse screenshots of conceptual services, for land and property services
+Browse screenshots of conceptual services, for land and property services, or services that use land and proerty data
 
 You can view different sets of screenshots for each exemplar, zoom in and out of them or step through them in order.
 
@@ -20,18 +20,19 @@ The app is very simple and doesn't require anything to be installed or run in a 
 - permission to do something, that needs information about property - an owner or someone with a right getting permission, or giving another person access
 - geospatial ideas - what could a geostpatial register do / allow?
 - digital casework - if public services changed how would casework change to also suppoert that / work in the future
+- services other people or depts might make, that use data we hold
 
 this is a lightweight app, to show the main idea or ideas, if you have another prototype with more information, link to that.
 
 
 ## How to contribute
 
-If you work on conceptualising what could be a truly digital vision - without current constraints.  I.e. what would a service be like now, if starting from sratch.
+If you work on conceptualising what could be a truly digital vision - without current constraints - add it.  I.e. what would a service be like now, if starting from sratch.
 
 
 ### 1. Add your images
 
-Each conceptaul service has it's own numbered folder in '/exemplar'. Drop all your images into the 'images' subfolder (1024px wide is best).
+Each conceptual service has it's own numbered folder in '/exemplar'. Drop all your images into the 'images' subfolder (1024px wide is best).  Do remember so much is mobile these days, so lets show mobile apps/views too
 
 ### 2. Update the data file
 
