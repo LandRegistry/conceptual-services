@@ -40,11 +40,14 @@ a{
 	font-size: 19px;
 	padding-top: 3px;
 	margin-bottom:  10px;
-	list-style-type: none;
+
 }
 .exemplar-list a:hover{
 	color: #2E8ACA;
   	text-decoration: none;
+}
+ul.exemplar-list li{
+  	list-style-type: none;
 }
 .app-header{
 	color: #6f777b;
@@ -106,6 +109,11 @@ a{
 	float: left;
 	border: 0;
 	border-right: 1px solid #BFC1C3;
+}
+
+.image.zoomed-in .image-wrapper img {
+  display: block;
+  margin: 10px auto;
 }
 
 .image-wrapper::-webkit-scrollbar {
@@ -379,7 +387,7 @@ html.noscroll {
 
 
 .govuk-list {
-  font-family: GDS Transport,arial,sans-serif;
+  font-family: 'nta',arial,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;

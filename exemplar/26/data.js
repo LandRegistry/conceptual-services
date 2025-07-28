@@ -1,5 +1,5 @@
 var data = {
-  "service": "26. Contractual controls",
+  "service": "Contractual controls",
   "last-updated": "27 July 2025",
   "userjourneys": [            
     {
