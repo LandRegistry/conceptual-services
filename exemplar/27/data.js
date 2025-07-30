@@ -5,9 +5,14 @@ var data = {
     {
       "title": "Conversion of PDFs to web forms",
       "path": [{
-        "caption": "Form OC1",
+        "caption": "Form OC1",  
         "imgref": "images/OC1_1.png",
-        "note": "There are currently over 200 HMLR PDF forms on GOV.UK (in english and welsh)."
+        "note": [
+          "There are currently over 200 HMLR PDF forms on GOV.UK.",
+          "A snapshot from 2024 shows 25% of them are unused, with around 150,000 views for the others.",
+          "This includes welsh and english versions."
+
+        ]
       },{
         "caption": "OC1 page 2",
         "imgref": "images/OC1_2.png",
