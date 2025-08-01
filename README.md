@@ -1,7 +1,7 @@
 Conceptual Services - screenshots and brief notes
 ================
 
-Browse screenshots of conceptual services, for land and property services, or services that use land and proerty data
+Browse screenshots of conceptual services, for land and property services, or services that use land and property data
 
 You can view different sets of screenshots for each exemplar, zoom in and out of them or step through them in order.
 
@@ -19,11 +19,11 @@ The app is very simple and doesn't require anything to be installed or run in a 
 - services a citizen dould do themselves, like afer a death or a change of name, and any other ideas?
 - permission to do something, that needs information about property - an owner or someone with a right getting permission, or giving another person access
 - geospatial ideas - what could a geospatial register do / allow?  
-- geotemportal ideas
+- geotemporal ideas
 - digital casework - if public services changed how would casework change to also support that / work in the future (dont show real data or internal current working)
 - services other people or depts might make, that use data we hold
 
-this is a lightweight app, to show the main idea or ideas, if you have another prototype with more information, link to that.
+This is a lightweight app, to show the main idea or ideas, if you have another prototype with more information, link to that.
 
 
 ## How to contribute
