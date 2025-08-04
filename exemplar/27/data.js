@@ -1,5 +1,5 @@
 var data = {
-  "service": "200 forms of...",
+  "service": "200 forms",
   "last-updated": "28 July 2025",
   "userjourneys": [            
     {
@@ -20,28 +20,26 @@ var data = {
       },{
         "caption": "OC1 page 3",
         "imgref": "images/OC1_3.png",
-        "note": "Building of work at the Incubator for AI, we could extract the form data, use Human-in-the-loop to audit each one and add routing to convert the PDF into a GDS standard web form."
-      },{
-        "caption": "Local authority",
-        "imgref": "images/1-local-authority.png",
-        "note": "The form is then automatically digitised. Data validation can be carried out at the time of input."
+        "note": "Building on work at the Incubator for AI, we could extract the form structure from the PDF, use Human-in-the-loop to audit each one and add routing to convert the PDF into a GDS standard web form."
       },
       {
         "caption": "Title number routing",
         "imgref": "images/2-has-title-number.png",
-        "note": "We can add logic to simplify the data required"
+        "note": "The questions can be tailored based on data already held by HMLR and we can add logic to streamline the questions asked."
       },
       {
         "caption": "Title number",
         "imgref": "images/3-title-number.png",
+        "note": "The form data is automatically digitised."
       },
       {
-        "caption": "Property interest",
-        "imgref": "images/4-property-interest.png",
+        "caption": "Validation checking",
+        "imgref": "images/4-validation-error.png",
+        "note": "Data validation can be carried out at the time of input."
       },
       {
-        "caption": "Type of official copy",
-        "imgref": "images/5-type-of-official-copy.png",
+        "caption": "Check your answers",
+        "imgref": "images/5-check-answers.png",
       },
       {
         "caption": "Confirmation",
