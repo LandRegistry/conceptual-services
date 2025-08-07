@@ -38,14 +38,18 @@ var data = {
         "imgref": "images/check-NRF.png",
         "note": [
           "Similarly, carry out a search using geospatial data using a Nature Restoration Fund service.",
-          "For checks against national infrastructure using HSE data, we may not want to show a map at this stage but flag if futher investigation is required."
-
+        ]
+      },{
+        "caption": "Health and Safety Excutive",
+        "imgref": "images/check-HSE.png",
+        "note": [
+          "For checks against national infrastructure using HSE data, we may not want to show a map at this stage but flag if further investigation is required."
         ]
       }
       ]
     },
     {
-      "title": "Boundary rationalisation",
+      "title": "Clean up data",
       "path": [{
         "caption": "Title boundaries",  
         "imgref": "images/boundaries.png",
