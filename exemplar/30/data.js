@@ -105,16 +105,27 @@ var data = {
     },{
       "title": "other bits - scope of servcie in wider journey, emails, notifications, mobile",
       "path": [{
-        "caption": "title",  
-        "imgref": "images/4/x.png",
+        "caption": "scope of service - information about development phase",  
+        "imgref": "images/4/service-scope.png",
         "note": [
-        	""
+        	"best place and way to solve problems during development to sale space - view what HMLR know about plans and titles, and their status",
+        	"solves problem of too many copies of information, in documents, circulating between all parties",
+        	"make information about the estate paln and pot more up to date with the real world, processes Gov checks more easily and enables people like OS and conveyancers to take action at better times"
         ]
       },{
-        "caption": "title",
-        "imgref": "images/4/x.png",
+        "caption": "selection of real beta pages, and some alaph thinking",
+        "imgref": "images/4/example.png",
         "note": ""
+      },{
+        "caption": "beta - estate information site - on mobile",
+        "imgref": "images/4/mobile-view-estate.png",
+        "note": ""
+      },{
+        "caption": "alpha - digital service for check development plan (EPA) - on mobile",
+        "imgref": "images/4/mobile-view-start-epa.png",
+        "note": "digital service to check estate plan (EPA)"
       }
+
       ]
     }
   ]}
