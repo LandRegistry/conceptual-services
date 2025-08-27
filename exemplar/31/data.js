@@ -54,7 +54,7 @@ var data = {
         "caption": "Title boundaries",  
         "imgref": "images/boundaries.png",
         "note": [
-          ""
+          "As part of the objective of provising secure and efficient land registration, we can take the initiative in mapping unregistered land to increase transparency."
         ]
       }
       ]
