@@ -23,7 +23,7 @@ var data = {
         "imgref": "images/AP-transfer.png",
         "note": [
           "Redesign the UI in order to streamline the application and present the necessary data in one place for users.",
-          "eg, display register and individual documents side by side for comparison, and track the ones that match; or display title maps and street views where the application calls for eh definition of the property type",
+          "eg display register and individual documents side by side for comparison, and track the ones that match; or display title maps and street views where the application calls for eh definition of the property type",
         ]
       }
       ]
