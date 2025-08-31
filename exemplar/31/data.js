@@ -8,11 +8,11 @@ var data = {
         "caption": "Ordnance Survey product viewer beta",  
         "imgref": "images/OS-Beta.png",
         "note": [
-          "Build on the existing work: Geospatial test and learn, Local land charges, as well as other government projects to create modern, accessibly maps."
+          "Build on the existing work: Geospatial test and learn, Local land charges, as well as other government projects to create modern, accessible maps."
         ]
       },{
-        "caption": "Defra map for flooding",
-        "imgref": "images/DEFRA-map.png",
+        "caption": "Maintain Local land charges",
+        "imgref": "images/MaintainLLC-map.png",
         "note": "Example of an accessible, user-friendly map"
       },
       ]
