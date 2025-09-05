@@ -34,7 +34,7 @@ var data = {
         "caption": "Improve the user experience with user accounts",  
         "imgref": "images/one-login.png",
         "note": [
-          "Implement GOV.UK One Login to enable users to access HMLR servicesu using an existing, validated identity.",
+          "Implement GOV.UK One Login to enable users to access HMLR services using an existing, validated identity.",
           "Investigate organisational accounts to serve customers with multiple teams members sharing access to services, eg LLC,",
         ]
       }
