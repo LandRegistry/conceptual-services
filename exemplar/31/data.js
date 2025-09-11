@@ -3,10 +3,10 @@ var data = {
   "last-updated": "5 August 2025",
   "userjourneys": [            
     {
-      "title": "Updated title search",
+      "title": "Redesign Map Search",
       "path": [{
-        "caption": "Ordnance Survey product viewer beta",  
-        "imgref": "images/OS-Beta.png",
+        "caption": "Comparison to OS product viewer",  
+        "imgref": "images/map_search_comparison.png",
         "note": [
           "Build on the existing work: Geospatial test and learn, Local land charges, as well as other government projects to create modern, accessible maps."
         ]
@@ -18,12 +18,13 @@ var data = {
       ]
     },
     {
-      "title": "Planning checks",
+      "title": "Connect parallel services to mirror user needs",
       "path": [{
         "caption": "Geospatial check of development planning",  
         "imgref": "images/check-planning.png",
         "note": [
-          "Carry out a search for planning purposes, either directly or as part of planning application."
+          "Provide and use APIs to connect parallel services that join-up other government services",
+          "e.g. A user carries out a search for planning purposes. We could then also show data from other relevant services or provide an API to enable other service use data, eg LLC API to enable searches to be done programmatically."
         ]
       },{
         "caption": "Title numbers",
@@ -37,7 +38,7 @@ var data = {
         "caption": "Defra Nature Restoration Fund",
         "imgref": "images/check-NRF.png",
         "note": [
-          "Similarly, carry out a search using geospatial data using a Nature Restoration Fund service.",
+          "Similarly, carry out a search using the same search area and show geospatial data from a Nature Restoration Fund service.",
         ]
       },{
         "caption": "Health and Safety Excutive",
