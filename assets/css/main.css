@@ -18,7 +18,10 @@ h1{
 	font-weight: normal;
 	vertical-align: top;
 }
-h2, h3{
+h2{
+	font-size: 32px;
+}
+h3{
 	font-size: 20px;
 }
 a{
@@ -403,4 +406,8 @@ html.noscroll {
 .govuk-list--number {
   padding-left: 20px;
   list-style-type: decimal;
+}
+
+.padding-top{
+  padding-top: 40px;
 }
